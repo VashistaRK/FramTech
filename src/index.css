@@ -1,0 +1,16 @@
+/* External imports first */
+
+@import url("https://fonts.googleapis.com/css2?family=Amaranth:ital,wght@0,400;0,700;1,400;1,700&family=Exo+2:ital,wght@0,100..900;1,100..900&family=Red+Hat+Display:ital,wght@0,300..900;1,300..900&display=swap");
+@import "tailwindcss";
+
+/* Theme variables */
+:root {
+  --font-mine: "Exo 2", sans-serif;
+  --font-mine2: "Red Hat Display", sans-serif;
+  --font-Rammetto: "Amaranth", cursive;
+}
+
+/* Hide scrollbar */
+body::-webkit-scrollbar {
+  display: none;
+}
