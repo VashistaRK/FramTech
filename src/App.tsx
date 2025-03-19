@@ -179,7 +179,7 @@ const App: React.FC = () => {
                   element={<FertilizerRecommendation />}
                 />
                 <Route
-                  path="/dashboard/Mazie-Pred"
+                  path="/dashboard/maize-pred"
                   element={<MaizeDiseasePredictor />}
                 />
                 <Route
